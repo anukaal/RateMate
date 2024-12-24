@@ -34,7 +34,7 @@ function App() {
             backgroundImage:`linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('https://i.vimeocdn.com/video/1116021689-c35d801f270e22eef46f1a43881756c68f3010a458724544378bcbde85a64448-d?mw=1400&mh=739&q=70"')`,
             
         }}
-    >   <h1 className="text-white text-7xl font-bold pt-5 ">Currency Convertor</h1>
+    >   <h1 className="text-white text-7xl font-bold pt-5 ">Rate Convertor</h1>
 
 
         <div className="w-full mb-40">
